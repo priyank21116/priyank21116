@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Pickflip
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Nextjs 
 - 👯 I’m looking to collaborate on Workfig
 - 🤔 I’m looking for internship in Mobile app / Web development
 - 💬 Ask me about React | React Native | Node | Mongoose | MERN
