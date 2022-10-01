@@ -1,5 +1,5 @@
-#  Hi there 👋
-<!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+#  Hi World !👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <!--  ![hey](./prk2.gif) -->
@@ -7,7 +7,7 @@
 <!--
 **priyank21116/priyank21116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Pickflip
 - 🌱 I’m currently learning Nextjs 
