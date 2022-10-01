@@ -1,8 +1,9 @@
-#  Hi World !👋
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#  Hello World !👋
+##I'm Priyank
+<!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 
-<!--  ![hey](./prk2.gif) -->
+ ![hey](./prk2.gif)
 
 <!--
 **priyank21116/priyank21116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,22 @@
 - 🤔 I’m looking for internship in Mobile app / Web development
 - 💬 Ask me about React | React Native | Node | Mongoose | MERN
 - 📫 How to reach me: 2019116@iiitdmj.ac.in
+
+
+javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+
 
 
 <!-- ![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank21116&show_icons=true&theme=radical) -->
