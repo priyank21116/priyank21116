@@ -2,14 +2,14 @@
 <!--  ![hey](./prk2.gif) -->
 
 
-![homecoding](https://user-images.githubusercontent.com/66053665/193421288-cfc5401d-8362-49a5-9402-1bcceda4eb4f.gif)
+<!-- ![homecoding](https://user-images.githubusercontent.com/66053665/193421288-cfc5401d-8362-49a5-9402-1bcceda4eb4f.gif) -->
 
 
 
 <h1 align="center">Hello World 👋 I'm Priyank</h1>
-<h3 align="center">Web /Mobile app developer ## (passionate,creator,innovator) --> Startup enthusiast</h3>
+<h3 align="center">Web /Mobile app developer // (passionate,creator,innovator) --> Startup enthusiast</h3>
 
- <div align="center" >![hey](./homecoding.gif) <div>
+ ![hey](./homecoding.gif) 
 
 - 🔭 I’m currently working on [e-library](https://github.com/priyank21116)
 
@@ -29,7 +29,7 @@
  
  
  
- <h3 align="left">Connect with me here </h3>
+ <span><h3 align="left">Connect with me here </h3></span>
 <span >
 <a href="https://linkedin.com/in/priyank21116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyank21116" height="30" width="40" /></a>
 </span>
