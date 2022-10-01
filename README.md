@@ -11,6 +11,10 @@
 
  <p align="center">![hey](./homecoding.gif)  </p>
  
+ <p align="center">
+  <img width="460" height="300" src="./homecoding.gif">
+</p>
+ 
  <p align ="left">
 
 - 🔭 I’m currently working on [e-library](https://github.com/priyank21116)
