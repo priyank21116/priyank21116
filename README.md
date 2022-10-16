@@ -17,13 +17,11 @@
  
  <p align ="left">
 
-- 🔭 I’m currently working on [e-library](https://github.com/priyank21116)
+- 🔭 I’m currently working on Pickflip
 
-- 🌱 I’m currently learning *Django*
+- 🌱 I’m currently learning SQL
 
-- 👯 I’m looking to collaborate on [Pickflip](https://github.com/priyank21116)
-
-- 🤝 I’m looking for help with [Hack](https://github.com/priyank21116)
+- 👯 I’m looking to collaborate on Pickflip
 
 - 👨‍💻 All of my projects are available at [https://priyank21116.github.io/website/](https://priyank21116.github.io/website/)
 
@@ -31,7 +29,7 @@
 
 - 🤔 I’m looking for great opportunity in Software Development Doamin
 
-- 📫 How to reach me **priyankgupta2120@gmail.com**
+- 📫 How to reach me **2019116@iiitdmj.ac.in / priyankgupta2120@gmail.com**
  
  
  
