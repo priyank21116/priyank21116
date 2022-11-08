@@ -17,15 +17,13 @@
  
  <p align ="left">
 
-- 🔭 I’m currently working on Pickflip
+- 🔭 I’m currently working on Go-cart
 
 - 🌱 I’m currently learning SQL
 
-- 👯 I’m looking to collaborate on Pickflip
+- 👨‍💻 All of my projects are available at [portfolio](https://priyankgupta.netlify.app/))
 
-- 👨‍💻 All of my projects are available at [https://priyank21116.github.io/website/](https://priyank21116.github.io/website/)
-
-- 💬 Ask me about **JavaScript,React,MERN stack**
+- 💬 Ask me about **Developemnt, JavaScript, React, MERN stack, Python**
 
 - 🤔 I’m looking for great opportunity in Software Development Doamin
 
@@ -33,7 +31,7 @@
  
  
  
- <span><h3 align="left">Connect with me here </h3></span>
+ <span><h5 align="left">Connect with me on linkedin </h5></span>
 <span >
 <a href="https://linkedin.com/in/priyank21116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyank21116" height="30" width="40" /></a>
 </span>
