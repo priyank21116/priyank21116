@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hello World 👋 I'm Priyank</h1>
-<h3 align="center">Web/Mobile app developer // (passionate,creator,innovator) --> Startup enthusiast</h3>
+<h3 align="center">Full Stack Developer | Frontend | Backend | Generative AI | Startup enthusiast</h3>
 
 <!--  <p align="center">![hey](./homecoding.gif)  </p> -->
  
@@ -17,21 +17,21 @@
  
  <p align ="left">
 
-- 🔭 I’m currently working on Go-cart
+- 🔭 I’m currently working as a Software Engineer @ Tata Research Development and Design Centre
 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently exploring the possibility of Gen AI and its usability in software development
 
-- 👨‍💻 All of my projects are available at [portfolio](https://priyankgupta.netlify.app/))
+- 👨‍💻 Brief of my projects is available at [portfolio](https://priyankgupta.netlify.app/))
 
-- 💬 Ask me about **Developemnt, JavaScript, React, MERN stack, Python**
+- 💬 Ask me about **Development, JavaScript, React, MERN stack, Python, Frontend, Backend, GenAI**
 
-- 🤔 I’m looking for great opportunity in Software Development Doamin
+- 🤔 I’m passionately looking for a great learning and building opportunity in the Software Development Domain.
 
-- 📫 How to reach me **2019116@iiitdmj.ac.in / priyankgupta2120@gmail.com**
+- 📫 How to reach me **priyankgupta2120@gmail.com / +91 8085879544**
  
  
  
- <span><h5 align="left">Connect with me on linkedin </h5></span>
+ <span><h5 align="left">Do connect with me on linkedin </h5></span>
 <span >
 <a href="https://linkedin.com/in/priyank21116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyank21116" height="30" width="40" /></a>
 </span>
